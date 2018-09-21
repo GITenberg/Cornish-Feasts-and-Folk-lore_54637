@@ -1,11 +1,16 @@
 _repo: Cornish-Feasts-and-Folk-lore_54637
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54637-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Courtney, M. A.
     gutenberg_agent_id: '47964'
     url: http://www.gutenberg.org/2009/agents/47964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54637#Cornish-Feasts-and-Folk-lore
 gutenberg_issued: '2017-04-30'
 gutenberg_type: Text
 identifiers:
